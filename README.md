@@ -1,2 +1,6 @@
 # Database-Project
 # Around Mobiles
+I have created a business for mobiles phones called Around mobiles. 
+I need to develop a database that tracks customer, product, staff, retail, and supply chain information. I'm interested in this information because I need to keep track of my business operations to ensure that I have the proper materials, and I need to keep an eye on inventories and order new materials if I run out. 
+I need to keep track of my employees so that I can keep my stores staffed and employees paid, and I need to keep track of my customers so that I can create relationships with them and provide discounts for customer loyalty. I'll personally enter employee information, and my customers will generate data when they place orders, but the rest of the information will come from my suppliers via a server procedure from oracle.  
+As the owner, I need control of data in order to fully understand the operations of my company. To provide the correct promotions and incentives to encourage people to buy our products, my sales team requires access to customer and product data. To ensure that my stores are staffed and inventory is available, my store managers require access to employee and supply chain data.
